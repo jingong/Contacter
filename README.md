@@ -11,20 +11,20 @@
 4.通讯录的退出<br>
 项目中所有用到的存储都是使用的SQLite数据库<br>
 应用图标：<br>
-<img width="300px" height="500px" src="https://github.com/jingong/Contacter/blob/master/screenshot/1.jpg" /><br>
+<img width="280px" height="500px" src="https://github.com/jingong/Contacter/blob/master/screenshot/1.jpg" /><br>
 注册<br>
-<img width="300px" height="500px" src="https://github.com/jingong/Contacter/blob/master/screenshot/2.jpg" /><br>
+<img width="280px" height="500px" src="https://github.com/jingong/Contacter/blob/master/screenshot/2.jpg" /><br>
 登录：<br>
-<img width="300px" height="500px" src="https://github.com/jingong/Contacter/blob/master/screenshot/3.jpg" /><br>
+<img width="280px" height="500px" src="https://github.com/jingong/Contacter/blob/master/screenshot/3.jpg" /><br>
 主界面：<br>
-<img width="300px" height="500px" src="https://github.com/jingong/Contacter/blob/master/screenshot/4.jpg" /><br>
+<img width="280px" height="500px" src="https://github.com/jingong/Contacter/blob/master/screenshot/4.jpg" /><br>
 添加好友和删除好友：<br>
-<img width="300px" height="500px" src="https://github.com/jingong/Contacter/blob/master/screenshot/5.jpg" /><br>
+<img width="280px" height="500px" src="https://github.com/jingong/Contacter/blob/master/screenshot/5.jpg" /><br>
 查询好友：<br>
-<img width="300px" height="500px" src="https://github.com/jingong/Contacter/blob/master/screenshot/6.jpg" /><br>
-<img width="300px" height="500px" src="https://github.com/jingong/Contacter/blob/master/screenshot/7.jpg" /><br>
+<img width="280px" height="500px" src="https://github.com/jingong/Contacter/blob/master/screenshot/6.jpg" /><br>
+<img width="280px" height="500px" src="https://github.com/jingong/Contacter/blob/master/screenshot/7.jpg" /><br>
 退出通讯录：<br>
-<img width="300px" height="500px" src="https://github.com/jingong/Contacter/blob/master/screenshot/8.jpg" /><br>
+<img width="280px" height="500px" src="https://github.com/jingong/Contacter/blob/master/screenshot/8.jpg" /><br>
 <br>
 刚学习Android的时候做的第一个小项目，界面和方法写的可能不是太好！在设计上也肯定有很多不足的地方。<br>
 欢迎交流学习：jiajingong@163.com<br>
