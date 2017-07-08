@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="19.1.0"><source path="E:\WorkSpace\AndroidWS\Contacter\contacter\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\assets"/></dataSet><dataSet config="main"><source path="E:\WorkSpace\AndroidWS\Contacter\contacter\src\main\assets"/><source path="E:\WorkSpace\AndroidWS\Contacter\contacter\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\WorkSpace\AndroidWS\Contacter\contacter\src\debug\assets"/></dataSet></merger>
