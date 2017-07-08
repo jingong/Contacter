@@ -11,7 +11,7 @@
 4.通讯录的退出<br>
 项目中所有用到的存储都是使用的SQLite数据库<br>
 
-
+<img src="https://github.com/jingong/Contacter/blob/master/screenshot/1.jpg" />
 
 
 
